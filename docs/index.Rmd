@@ -1,6 +1,6 @@
 ---
 title: "Assignment 4"
-author: "Trang Thuy Nguyen  ID29091985"
+author: "Trang Thuy Nguyen"
 date: "October 23, 2020"
 output: html_document
 ---
